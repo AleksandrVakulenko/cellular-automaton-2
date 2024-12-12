@@ -1,0 +1,7 @@
+g++ main.cpp -I./include -L./lib -lSDL2
+
+
+
+https://github.com/Noah11012/sdl2-tutorial-code
+
+
